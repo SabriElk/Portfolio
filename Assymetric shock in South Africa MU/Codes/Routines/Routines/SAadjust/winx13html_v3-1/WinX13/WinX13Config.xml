@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WinX13ConfigSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <InstallPath />
+  <Executable />
+  <DataPath />
+  <GraphicsPath />
+  <EditorProgram />
+  <OutputFilesToShow>ols</OutputFilesToShow>
+  <ShowOutput>y</ShowOutput>
+  <ShowLog>n</ShowLog>
+  <ShowError>false</ShowError>
+  <ShowScreenOutput>false</ShowScreenOutput>
+  <GraphingProgram>JAVA</GraphingProgram>
+  <JavaCommandPath>c:\program files\java\jre1.8.0_341\bin\java</JavaCommandPath>
+  <SASGraphingProgramDirectory />
+  <CheckBoxSettings>gsodr</CheckBoxSettings>
+  <ColorComments>y</ColorComments>
+  <DeleteTempFilesOnClosing>true</DeleteTempFilesOnClosing>
+  <TimeDiscrepancyAllowance>2</TimeDiscrepancyAllowance>
+  <DefaultSpecTemplate />
+  <OutputDirectory />
+  <WarnForOutputGraphicsMatch>true</WarnForOutputGraphicsMatch>
+</WinX13ConfigSettings>
