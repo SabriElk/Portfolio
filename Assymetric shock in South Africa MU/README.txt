@@ -1,7 +1,8 @@
-This compressed file include all materials such as code, database, AI report aknowledgement and final report. 
-This document is produced by Group 3 : Sabri EL Kaddouri, Matilde Puce, Uge Pedini, Jawad Momin Masuk
+This compressed file include all materials such as code and database. 
+This document is produced by Group 3 : Sabri EL Kaddouri, Matilde Puce, Ugo Pedini, Jawad Momin Masuk
 
-Most of our code is based on the code provided by Professor Romain Houssa, regarding the class Global Macro-Financial Linkages
+Most of our code is based on the code provided by Professor Romain Houssa, regarding the class Global Macro-Financial Linkages taught in Louvain-la-Neuve.
+The code has been adapted for the purpose of the study.
 
 You will find in this repository :
 
@@ -9,7 +10,7 @@ You will find in this repository :
 
 - RawData : All data
 
-- Routines : File containing every functions to assess our analisis
+- Routines : File containing every functions to assess our analysis
 
 - Sign Restriction : This file include a data file and the code used to compute Sign Restriction estimation as required. Each file is designed to compute for each country
 
@@ -19,7 +20,7 @@ You will find in this repository :
 
 - Zero Restriction : This file include a data file and the code used to compute zero Restriction estimation as required. Each file is designed to compute for each country
 
-We would like to thanks Professor Romain Houssa for the provided code.
+We would like to thank Professor Romain Houssa for the code and guidance through our analysis provided.
 
 Group 3.
 
