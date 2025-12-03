@@ -44,7 +44,7 @@ returns = (Changes * weight).sum(axis=1)
 print(returns)
 
 #Calcul des retours sur différentes périodes 
-period = [7,31,90,180,365]
+period = [7,31,90,180,365,3650] #jours
 
 for x in range(len(period)):
     days = period[x]
