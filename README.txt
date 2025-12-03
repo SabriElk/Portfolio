@@ -8,7 +8,7 @@ This repository showcases my journey from my very first beginner projects to my 
 - Data Analysis (Python, R, Stata, etc.)
 
 What you'll find here
-- Early projects → when I was just starting out (yes, everyone begins somewhere! 😄)
+- Early projects → when I was just starting out (yes, everyone begins somewhere!)
 - Intermediate & advanced econometric models
 - Time-series analysis, panel data, causal inference projects
 - Finance-related work 
