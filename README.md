@@ -20,7 +20,6 @@ are included to allow full reproducibility.
 - **Econometrics:** regression modelling, panel data, causal inference
 - **Time-Series Analysis:** ARIMA, VAR, forecasting techniques
 - **Machine Learning:** classification, regression, cross‑validation
-- **Finance:** asset pricing, risk measurement, portfolio optimization
 - **Data Handling:** cleaning, transformation, visualization
 
 # Featured Projects
@@ -49,23 +48,7 @@ engineering and regularization
 
 Clear summaries highlight performance differences between algorithms.
 
-## 4. Financial Modelling
-
-Work related to: - Portfolio optimization - Risk measurement (VaR,
-CVaR) - Asset‑return modelling
-
-Visual summaries and scenario analysis accompany the code.
-
-# Repository Structure
-
-    Portfolio/
-    ├── Econometrics/
-    ├── TimeSeries/
-    ├── MachineLearning/
-    ├── Finance/
-    └── README.Rmd
-
-Each folder contains: - Source code (R/Python) - Cleaned data or
+Each folder contains: - Source code (R/Python/Matlab) - Cleaned data or
 data‑loading scripts - Outputs (plots, tables) - Project‑specific README
 
 # How to Reproduce
